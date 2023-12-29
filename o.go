@@ -6,3 +6,4 @@ func o() {
 	fmt.Println("ccccccccccc")
 }
 aaaaaaa
+bbbbbbbb
