@@ -5,3 +5,4 @@ import "fmt"
 func o() {
 	fmt.Println("ccccccccccc")
 }
+bbbbbbbb
